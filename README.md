@@ -7,6 +7,12 @@ Prediksi bunga Iris menggunakan methode klasifikasi KNN berbasis Aplikasi Androi
 3. Terdapat proses pengerjaan KNN di setiap data training nya
 4. Nilai dari K dapat ditentukan sesuai keinginan
 
+# Screenshoot
+![screenshot_2019-01-20-18-47-44](https://user-images.githubusercontent.com/44946501/51438868-5d015380-1ce4-11e9-9970-5768ee38f760.png)
+
+![screenshot_2019-01-20-18-52-08](https://user-images.githubusercontent.com/44946501/51438879-87eba780-1ce4-11e9-9257-dbcbd24f4506.png)
+
+
 # License
 MIT License
 
